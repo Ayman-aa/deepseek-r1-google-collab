@@ -71,7 +71,3 @@ This repository contains a Jupyter notebook to get hands-on experience with the 
 
 - The process may terminate after installation, so you may need to restart the Ollama server using the provided cell.
 - Modify the prompt in the `content` parameter to ask different questions or interact with the model as needed.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
